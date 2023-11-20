@@ -1,2 +1,9 @@
 file_3.txt
 branch_1 브랜치에서 파일 수정
+
+
+git reset --hard HEAD~1 == git reset --hard HEAD^
+git commit -m "..."
+git push origin +master
+
+git reset --hard d678197
